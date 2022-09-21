@@ -1,0 +1,12 @@
+#back
+{
+    float: right;
+}
+body
+{
+    border-style: inset;
+    border-radius: 10px;
+    border-width: 20px;
+    border-color: aqua;
+    background-color: rgb(133, 250, 211);
+}

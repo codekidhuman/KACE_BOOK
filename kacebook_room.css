@@ -1,0 +1,20 @@
+body
+{
+   background-image: url("lemon.jpg"); 
+}
+#tqzx
+{
+   background-color: rgb(135, 187, 232);
+   border-color: rgb(60, 118, 169);
+   width: 200px;
+   border-radius: 10px;
+   border-width: 10px;
+}
+#user_name
+{
+   width: fit-content;
+   background-color: greenyellow;
+   border-radius: 5px;
+   border-color: rgb(124, 193, 21);
+   border-width: 5px;
+}
